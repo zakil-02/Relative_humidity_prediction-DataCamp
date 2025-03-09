@@ -1,0 +1,15 @@
+netCDF4==1.7.2
+numpy==2.2.3
+pandas==2.2.3
+geopandas==1.0.1
+ramp_workflow==0.7.0
+scikit_learn==1.6.1
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+Shapely==2.0.7
+tqdm==4.67.1
+matplotlib==3.5.1
+scipy==1.15.2
+seaborn==0.13.2
+folium==0.19.5
+yarg==0.1.9
