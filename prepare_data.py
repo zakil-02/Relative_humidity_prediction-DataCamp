@@ -139,5 +139,5 @@ def prepare_climate_data(file_path, output_dir='./data'):
         raise
 
 if __name__ == "__main__":
-    file_path = './Data_extraction/91876b95c55af324dff8f275ebb8d589.nc'
+    file_path = './data/91876b95c55af324dff8f275ebb8d589.nc'
     prepare_climate_data(file_path)
